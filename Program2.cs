@@ -11,6 +11,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {            
             Console.WriteLine("hello nishant jarare");
+            Console.WriteLine("this is second program");
         }
     }
 }
